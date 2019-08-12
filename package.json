@@ -30,15 +30,16 @@
   "license": "MIT",
   "dependencies": {
     "golden-layout": "^1.5.9",
-    "react": "^16.3.0",
-    "react-dom": "^16.3.0"
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-flow": "^6.23.0",
-    "documentation": "^6.1.0",
-    "flow-bin": "^0.68.0"
+    "babel-preset-react": "^6.24.1",
+    "documentation": "^12.1.1",
+    "flow-bin": "^0.105.1"
   }
 }
